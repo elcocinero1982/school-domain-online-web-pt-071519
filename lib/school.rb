@@ -1,5 +1,6 @@
 Class School
-attr_accessor :grade :student
+attr_accessor :grade 
+attr_accessor :student
 school["school_new"]=[]
 school["school_new"] << ""
 def initialize(school)
