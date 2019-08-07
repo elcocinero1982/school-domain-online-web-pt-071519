@@ -4,4 +4,4 @@ def initialize(school)
   @school=school
 end
 end
-
+school.roster
