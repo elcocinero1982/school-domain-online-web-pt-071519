@@ -15,3 +15,4 @@ school.add_student("Kelly Kapowski", 10)
 school.add_student("Screech", 11)
 school.rosterol.add_student("Zach Morris", 9)
 school.grade(9)
+school.sort
