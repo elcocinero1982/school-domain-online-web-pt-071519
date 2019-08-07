@@ -1,5 +1,5 @@
 Class School
-def initialize(school)
+def school=("Test School")
   @school=school
 end
 
