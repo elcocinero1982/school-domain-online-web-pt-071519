@@ -1,7 +1,7 @@
 Class School
-def initialize :School
-  
-
+def initialize("Test School")
+  @school=School
+end
 
 end
 
